@@ -1,7 +1,9 @@
 🧠 Machine Learning & Deep Learning 
+
 This repository contains a collection of Machine Learning and Deep Learning projects implemented using Jupyter Notebooks. It focuses on solving real-world problems through Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), clustering, dimensionality reduction, and other core machine learning techniques.
 
 🚀 Projects Included
+
 🔹 1. Customer Churn Prediction (ANN)
 Built using Artificial Neural Networks (ANN)
 Predicts whether a customer is likely to leave a service
